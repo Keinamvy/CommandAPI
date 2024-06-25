@@ -25,7 +25,7 @@
 
 	<groupId>dev.jorel</groupId>
 	<artifactId>commandapi</artifactId>
-	<version>9.5.0-mod</version>
+	<version>9.5.0-mod-fork</version>
 	<packaging>pom</packaging>
 
 	<name>commandapi</name>
